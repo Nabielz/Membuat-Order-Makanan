@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\bin\Debug\Order Makanan.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\bin\Debug\Order Makanan.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\bin\Debug\Order Makanan.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order_Makanan.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order_Makanan.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order Makanan.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order Makanan.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order Makanan.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\Order Makanan\Order Makanan\obj\x86\Debug\Order Makanan.pdb
